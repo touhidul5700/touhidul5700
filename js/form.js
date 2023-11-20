@@ -20,7 +20,7 @@ function sendEmail() {
         Password: "0BE2DC5CDAB5E28B8A3DB3A0948332A6F5B2",
         From: "ti360109@gmail.com",
         To: '77webtech@gmail.com',
-        Subject: "Tech77 contact form",
+        Subject: "Touhidul360 contact form",
         Body: mailBody
     }).then(
         message => alert(message)
