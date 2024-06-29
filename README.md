@@ -6,8 +6,12 @@ Here are some ideas to get you started:
 - 🌱 I’m currently learning Full Stack Web Development
 - 👯 I’m looking to collaborate on Web Development Projects
 - 💬 Ask me about Your problems at Web Development and I will try to help you.
-- 📫 How to reach me: ... My fiverr Profile>> https://www.fiverr.com/mdislam124
--                         My Linkedin Profile>> https://www.linkedin.com/in/touhidul5700
--                         My Facebook Profile>> https://www.facebook.com/touhidul5700
+- 
+- 📫 How to reach me:
+- My fiverr Profile>> https://www.fiverr.com/mdislam124
+- My Linkedin Profile>> https://www.linkedin.com/in/touhidul5700
+- My Facebook Profile>> https://www.facebook.com/touhidul5700
+
+  
 - 😄 Pronouns: hi/him
 - ⚡ Fun fact: I have a Web Developmnt team and I can handle any kind of Digital Projects Perfectly
