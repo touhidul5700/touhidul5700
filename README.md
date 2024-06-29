@@ -1,16 +1,13 @@
-### Hi there 👋
-
-<!--
-**touhidul5700/touhidul5700** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi, I am Touhidul, a creative Front-End Web Developer and WordPress expert with over 2 years of experience. I specialize in crafting visually stunning and highly functional websites using HTML, CSS, JavaScript, React, Tailwind CSS, and WordPress. During my career, I have successfully completed numerous professional projects, including developing e-commerce platforms, corporate websites, and custom WordPress themes. My focus on utilizing React for dynamic user interfaces and Tailwind CSS for efficient and responsive design ensures that every project exceeds expectations. You can trust the quali
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on React Js
+- 🌱 I’m currently learning Full Stack Web Development
+- 👯 I’m looking to collaborate on Web Development Projects
+- 💬 Ask me about Your problems at Web Development and I will try to help you.
+- 📫 How to reach me: ... My fiverr Profile>> https://www.fiverr.com/mdislam124
+-                         My Linkedin Profile>> https://www.linkedin.com/in/touhidul5700
+-                         My Facebook Profile>> https://www.facebook.com/touhidul5700
+- 😄 Pronouns: hi/him
+- ⚡ Fun fact: I have a Web Developmnt team and I can handle any kind of Digital Projects Perfectly
