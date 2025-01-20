@@ -7,7 +7,7 @@
 
 📫 How to reach me **touhiduliet@gmail.com**
 
-📄 Know about <a style="text-decoration: none !important; color:black;" href="https://drive.google.com/file/d/1dhOO3W4joitoi4wlWzkLqpUd_BLLdb99/view?usp=drive_link" target="blank">my experiences</a>
+📄 Know about <a style="text-decoration: none !important; color:black;" href="https://touhidul.vercel.app/" target="blank">my experiences</a>
 
 ⚡ Fun fact **I am good at drinking tea**
 
